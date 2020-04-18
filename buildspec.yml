@@ -13,7 +13,7 @@ phases:
   build:
     commands:
     - echo "Build phase"
-    - acorn --silent html/typing.js;
+    - acorn --silent html/jstaller3.js;
 
   post_build:
     commands:
